@@ -144,7 +144,7 @@ color: var(--brand-color);
 /* -------MAIN------- */
 .hero {
     padding-top: 200px;
-    padding-bottom: 280px;
+    padding-bottom: 200px;
     background-color: var(--background-color);
     text-align: center;
 }
